@@ -13,7 +13,7 @@ namespace FTT_travel
         OleDbCommand cmd = new OleDbCommand();
         public void connect()
         {
-            cn.ConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=Database1.accdb;Persist Security Info=False";
+            cn.ConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=FTT_Travel_DB.accdb;Persist Security Info=False";
             cn.Open();
         }
     }
