@@ -9,12 +9,17 @@ namespace FTT_travel
 {
     internal class Operations
     {
-        OleDbConnection cn = new OleDbConnection();
-        OleDbCommand cmd = new OleDbCommand();
+        public OleDbConnection cn = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=FTT_Travel_DB.accdb;Persist Security Info=False");
+        public OleDbCommand cmd = new OleDbCommand();
+        public OleDbDataReader dataReader;
         public void connect()
         {
-            cn.ConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=FTT_Travel_DB.accdb;Persist Security Info=False";
             cn.Open();
+            cmd.Connection = cn;
+        }
+        public void disconnect()
+        {
+            cn.Close();
         }
     }
 }

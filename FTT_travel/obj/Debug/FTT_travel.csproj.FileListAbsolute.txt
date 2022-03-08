@@ -68,7 +68,6 @@ D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form3.resour
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form4.resources
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form5.resources
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form6.resources
-D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form7.resources
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form8.resources
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form9.resources
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Properties.Resources.resources
@@ -81,3 +80,7 @@ D:\My Company\FTT_travel\FTT_travel\FTT_travel\bin\Debug\FTT_travel.exe
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\bin\Debug\FTT_travel.pdb
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.csproj.AssemblyReference.cache
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.csproj.SuggestedBindingRedirects.cache
+D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.DealingsLists.resources
+D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Capacities.resources
+D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Companies.resources
+D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Prices_Lists.resources

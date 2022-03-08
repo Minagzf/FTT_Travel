@@ -17,11 +17,11 @@ namespace FTT_travel
         {
             InitializeComponent();
         }
-        Operations op = new Operations();
+       
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            op.connect();   
+              
         }
 
         private void button14_Click(object sender, EventArgs e)
