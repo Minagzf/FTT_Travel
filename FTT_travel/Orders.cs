@@ -10,14 +10,24 @@ using System.Windows.Forms;
 
 namespace FTT_travel
 {
-    public partial class Form4 : Form
+    public partial class Orders : Form
     {
-        public Form4()
+        public Orders()
         {
             InitializeComponent();
         }
 
         private void Form4_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox4_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label10_Click(object sender, EventArgs e)
         {
 
         }

@@ -72,6 +72,7 @@
             this.button2.TabIndex = 1;
             this.button2.Text = "السائقين";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -82,6 +83,7 @@
             this.button3.TabIndex = 2;
             this.button3.Text = "امر الشغل";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -112,6 +114,7 @@
             this.button6.TabIndex = 5;
             this.button6.Text = "قوائم الاسعار";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button7
             // 

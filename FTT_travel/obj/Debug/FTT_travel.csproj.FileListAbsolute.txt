@@ -64,8 +64,6 @@ D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form12.resou
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form13.resources
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form14.resources
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form2.resources
-D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form3.resources
-D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form4.resources
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form5.resources
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form6.resources
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Form8.resources
@@ -84,3 +82,5 @@ D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.DealingsList
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Capacities.resources
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Companies.resources
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Prices_Lists.resources
+D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Drivers.resources
+D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Orders.resources

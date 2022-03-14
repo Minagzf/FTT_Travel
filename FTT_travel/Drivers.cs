@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FTT_travel
 {
-    public partial class Form3 : Form
+    public partial class Drivers : Form
     {
-        public Form3()
+        public Drivers()
         {
             InitializeComponent();
         }

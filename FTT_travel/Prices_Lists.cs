@@ -60,6 +60,7 @@ namespace FTT_travel
             txt_Commission.Clear();
             TxtTotal.Clear();
             CmbCompName.Focus();
+            chkVat.Checked = false;
         }
         public Prices_Lists()
         {
@@ -90,8 +91,8 @@ namespace FTT_travel
 
         private void BtnSave_Click(object sender, EventArgs e)
         {
-            opr.cmd.CommandText = "insert into Prices_Lists (Company_ID,Deal_ID,Capacity_ID,Driver_Commision,Price)" +
-                " values ('" + CmbCompName.SelectedValue + "','" + CmbDealName.SelectedValue + "','" + CmbCap.SelectedValue + "','" + txt_Commission.Text + "','"+ TxtTotal.Text+"')";
+            opr.cmd.CommandText = "insert into Prices_Lists (Company_ID,Deal_ID,Capacity_ID,Driver_Commision,Price,has_vat)" +
+                " values ('" + CmbCompName.SelectedValue + "','" + CmbDealName.SelectedValue + "','" + CmbCap.SelectedValue + "','" + txt_Commission.Text + "','"+ TxtTotal.Text+"'," + chkVat.Checked +")";
             opr.connect();
             int aff = opr.cmd.ExecuteNonQuery();
            if (aff >0)

@@ -153,9 +153,10 @@
             // 
             // Companies
             // 
+            this.AcceptButton = this.btnSave;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(325, 234);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -164,6 +165,7 @@
             this.Name = "Companies";
             this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.Text = "الشركات";
+            this.Load += new System.EventHandler(this.Companies_Load);
             this.groupBox2.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);

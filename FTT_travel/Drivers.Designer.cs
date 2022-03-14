@@ -1,6 +1,6 @@
 ﻿namespace FTT_travel
 {
-    partial class Form3
+    partial class Drivers
     {
         /// <summary>
         /// Required designer variable.

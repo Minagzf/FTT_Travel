@@ -35,6 +35,22 @@ namespace FTT_travel
            
         }
 
-      
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Drivers drivers = new Drivers();
+            drivers.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Orders orders  = new Orders();
+            orders.Show();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Prices_Lists prices_Lists = new Prices_Lists();
+            prices_Lists.Show();
+        }
     }
 }

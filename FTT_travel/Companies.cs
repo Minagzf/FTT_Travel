@@ -56,6 +56,12 @@ namespace FTT_travel
                 }
 
             }
+            btnNew.Focus();
+        }
+
+        private void Companies_Load(object sender, EventArgs e)
+        {
+            btnNew.Focus();
         }
     }
 }

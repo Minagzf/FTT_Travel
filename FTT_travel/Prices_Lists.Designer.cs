@@ -49,6 +49,7 @@
             this.CmbCap = new System.Windows.Forms.ComboBox();
             this.txt_Commission = new System.Windows.Forms.TextBox();
             this.btn_Back = new System.Windows.Forms.Button();
+            this.chkVat = new System.Windows.Forms.CheckBox();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -236,11 +237,22 @@
             this.btn_Back.UseVisualStyleBackColor = true;
             this.btn_Back.Click += new System.EventHandler(this.btn_Back_Click);
             // 
+            // chkVat
+            // 
+            this.chkVat.AutoSize = true;
+            this.chkVat.Location = new System.Drawing.Point(115, 96);
+            this.chkVat.Name = "chkVat";
+            this.chkVat.Size = new System.Drawing.Size(85, 17);
+            this.chkVat.TabIndex = 79;
+            this.chkVat.Text = "فاتورة ضريبية";
+            this.chkVat.UseVisualStyleBackColor = true;
+            // 
             // Prices_Lists
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(483, 378);
+            this.Controls.Add(this.chkVat);
             this.Controls.Add(this.btn_Back);
             this.Controls.Add(this.txt_Commission);
             this.Controls.Add(this.CmbCap);
@@ -291,5 +303,6 @@
         private System.Windows.Forms.ComboBox CmbCap;
         private System.Windows.Forms.TextBox txt_Commission;
         private System.Windows.Forms.Button btn_Back;
+        private System.Windows.Forms.CheckBox chkVat;
     }
 }
