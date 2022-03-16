@@ -32,7 +32,8 @@ namespace FTT_travel
 
         private void button1_Click(object sender, EventArgs e)
         {
-           
+            Drivers drv = new Drivers();
+            drv.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)

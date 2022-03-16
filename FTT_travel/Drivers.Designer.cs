@@ -117,11 +117,11 @@
             this.toolStripStatusLabel2,
             this.toolStripProgressBar1,
             this.toolStripStatusLabel3});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 428);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 526);
             this.statusStrip1.Name = "statusStrip1";
             this.statusStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
             this.statusStrip1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.statusStrip1.Size = new System.Drawing.Size(800, 22);
+            this.statusStrip1.Size = new System.Drawing.Size(1065, 22);
             this.statusStrip1.TabIndex = 23;
             this.statusStrip1.Text = "statusStrip1";
             // 
@@ -357,11 +357,11 @@
             this.label1.TabIndex = 72;
             this.label1.Text = "م";
             // 
-            // Form3
+            // Drivers
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1065, 548);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.dateTimePicker2);
             this.Controls.Add(this.textBox9);
@@ -392,7 +392,8 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.statusStrip1);
-            this.Name = "Form3";
+            this.Name = "Drivers";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "السائقين";
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();

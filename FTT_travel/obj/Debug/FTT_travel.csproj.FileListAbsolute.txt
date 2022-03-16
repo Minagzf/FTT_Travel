@@ -84,3 +84,30 @@ D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Companies.re
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Prices_Lists.resources
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Drivers.resources
 D:\My Company\FTT_travel\FTT_travel\FTT_travel\obj\Debug\FTT_travel.Orders.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\bin\Debug\FTT_travel.exe.config
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\bin\Debug\FTT_travel.exe
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\bin\Debug\FTT_travel.pdb
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.csproj.AssemblyReference.cache
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.csproj.SuggestedBindingRedirects.cache
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Capacities.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Companies.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.DealingsLists.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Form1.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Form10.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Form11.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Form12.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Form13.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Form14.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Form2.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Drivers.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Orders.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Form5.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Form6.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Prices_Lists.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Form8.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Form9.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.Properties.Resources.resources
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.csproj.GenerateResource.cache
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.csproj.CoreCompileInputs.cache
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.exe
+D:\FTS\FTT-Mouse\FTT_Travel\FTT_travel\obj\Debug\FTT_travel.pdb
